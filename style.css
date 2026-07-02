@@ -9,3 +9,10 @@ body {
     margin-top: 50px;
     font-size: 14px;
 }
+#about {
+    padding: 20px;
+    background: #f4f4f4;
+    border-radius: 8px;
+    margin: 20px auto;
+    max-width: 600px;
+}
