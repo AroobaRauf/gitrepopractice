@@ -1,1 +1,11 @@
 
+/* Base Style */
+body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+#footer {
+    margin-top: 50px;
+    font-size: 14px;
+}
